@@ -1,3 +1,0 @@
-[submodule "cmake/cmake-d"]
-	path = cmake/cmake-d
-	url = https://github.com/Dadoum/cmake-d
